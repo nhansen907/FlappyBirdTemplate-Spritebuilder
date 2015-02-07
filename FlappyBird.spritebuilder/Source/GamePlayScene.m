@@ -7,6 +7,8 @@
 - (void)initialize
 {
     // your code here
+    [character flap];
+
 }
 
 -(void)update:(CCTime)delta
@@ -25,8 +27,7 @@
 
     // touch the screen
     
-    [character flap];
-    [self addObstacle];
+
 
 
 
