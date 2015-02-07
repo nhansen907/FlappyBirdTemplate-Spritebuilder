@@ -23,7 +23,7 @@
     // this will get called every time the player touches the screen
    
 
-    
+    // touch the screen
     
     [character flap];
     [self addObstacle];
