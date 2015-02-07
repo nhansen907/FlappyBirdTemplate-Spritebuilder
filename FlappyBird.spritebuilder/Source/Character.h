@@ -1,12 +1,12 @@
 //
-//  AppDelegate.swift
-//  day 1
+//  Character.h
+//  FlappyBird
 //
-//  Created by Nicholas Hansen on 1/24/15.
-//  Copyright (c) 2015 Nicholas Hansen. All rights reserved.
+//  Created by Gerald on 2/11/14.
+//  Copyright (c) 2014 Apportable. All rights reserved.
 //
 
-#import "CCNode.h"
+
 
 @interface Character : CCSprite
 
